@@ -41,7 +41,7 @@
         android:layout_alignBottom="@+id/textView1"
         android:layout_marginLeft="10dip"
         android:layout_toRightOf="@+id/textView1"
-        android:text="" />
+         />
 
    
 
